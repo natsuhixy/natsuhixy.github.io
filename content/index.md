@@ -1,6 +1,3 @@
----
-title: XYW's Blog
----
 
 # XYW's Blog
 
@@ -21,7 +18,7 @@ title: XYW's Blog
 よろしくお願いします。orz
 
 喜欢的照片镇楼
-[[IMG_0651.heic]]
+![[Citrus.jpg]]
 ## Explore
 
 - [[Books]] 
