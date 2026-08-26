@@ -37,8 +37,8 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install
 
-      - name: Check
-        run: npm run check
+      - name: Check TypeScript
+        run: npx tsc --noEmit
 
       - name: Build Quartz
         run: npx quartz build
