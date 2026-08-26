@@ -18,12 +18,11 @@ title: XYW's Blog
 - things I find interesting
 - connections between seemingly unrelated things
 
-よろしくお願いします。
+よろしくお願いします。orz
 
 
 ## Explore
 
 - [[Books]]
-- [[Ideas]]
 - [[Languages]]
 - [[Notes]]
