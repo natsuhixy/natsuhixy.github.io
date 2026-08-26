@@ -2,7 +2,7 @@
 title: My Notes
 ---
 
-# Welcome
+# 不欢迎：）
 
 This is my little corner of the internet.
 
@@ -10,9 +10,8 @@ Slowly building...
 
 Books, ideas, questions, fragments.
 
-## Currently thinking about
+## 今は
 
-- Language
-- Memory
+- Language: EN/CN/JP/Latin?/German
 - Books
 - Random thoughts
