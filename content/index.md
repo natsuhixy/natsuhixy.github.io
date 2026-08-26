@@ -20,9 +20,11 @@ title: XYW's Blog
 
 よろしくお願いします。orz
 
-
+喜欢的照片镇楼
+[[IMG_0651.heic]]
 ## Explore
 
-- [[Books]]
-- [[Languages]]
+- [[Books]] 
+  主营。。。因为最近读书笔记写得太少了www
+- [[Languages]] 
 - [[Notes]]
