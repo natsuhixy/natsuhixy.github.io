@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: XYW's Notes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: natsuhixy.github.io
   ignorePatterns:
     - private
     - templates
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: DM Sans
+      body: Lora
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#FFFBE8"
+        lightgray: "#EEF0D8"
+        gray: "#9AA17F"
+        darkgray: "#405039"
+        dark: "#283D24"
+        secondary: "#527A3A"
+        tertiary: "#789C45"
+        highlight: rgba(232, 197, 71, 0.18)
+        textHighlight: "#E8C54766"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#182018"
+        lightgray: "#30382B"
+        gray: "#78836A"
+        darkgray: "#D8DFC9"
+        dark: "#F0F2DF"
+        secondary: "#A8C66C"
+        tertiary: "#D8C85A"
+        highlight: rgba(216, 200, 90, 0.16)
+        textHighlight: "#D8C85A66"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true

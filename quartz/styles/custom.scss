@@ -1,3 +1,28 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+:root {
+  --light: #fffbe8;
+  --lightgray: #eef0d8;
+  --gray: #8a9278;
+  --darkgray: #405039;
+  --dark: #283d24;
+
+  --secondary: #527a3a;
+  --tertiary: #789c45;
+
+  --highlight: #f4e9a8;
+  --yellow: #e8c547;
+}
+
+body {
+  background: var(--light);
+  color: var(--dark);
+}
+
+a {
+  color: var(--secondary);
+}
+
+a:hover {
+  color: var(--tertiary);
+}// put your custom CSS here!

@@ -1,17 +1,29 @@
 ---
-title: My Notes
+title: XYW's Blog
 ---
 
-# 不欢迎：）
+# XYW's Blog
 
-This is my little corner of the internet.
+*思想垃圾焚烧厂*
 
-Slowly building...
+---
 
-Books, ideas, questions, fragments.
+尽情展现个人愚蠢魅力（不是
 
-## 今は
+此处虔心观者可见证：
 
-- Language: EN/CN/JP/Latin?/German
-- Books
-- Random thoughts
+- notes from books
+- languages that I am struggling with
+- fragments of ideas
+- things I find interesting
+- connections between seemingly unrelated things
+
+よろしくお願いします。
+
+
+## Explore
+
+- [[Books]]
+- [[Ideas]]
+- [[Languages]]
+- [[Notes]]
