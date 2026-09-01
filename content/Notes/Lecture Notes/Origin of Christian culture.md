@@ -17,3 +17,5 @@ Dominate Mediterranean by 4th century
 week 2
 ---
 1. few Christian artifacts can be dated to the AD 1/2.
+2. 鱼很少单独出现。/时间推移后传教者才意识到绘画对文盲率极高的社会的重要性。之前是不允许用绘画等方式让形象着陆的（也能理解毕竟摄像机都算摄取灵魂了xx
+3. 
