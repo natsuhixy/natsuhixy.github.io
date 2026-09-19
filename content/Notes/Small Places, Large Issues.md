@@ -1,0 +1,8 @@
+- Research question
+- Main Argument
+- Evidence
+- Method
+- Key Concepts
+- What I find convincing
+- What I find problematic
+- My question/comment
